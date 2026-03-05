@@ -5,8 +5,14 @@
 --====================================
 -- ESP + Black Shark Hack
 -- Lua / Roblox
--- Sistema de Testes para Anti-Cheat
---====================================
+-- ================================================
+-- BLACK SHARK V2 - ULTIMATE EDITION
+-- Copyright © 2026 DhaaankMK - Todos os direitos reservados.
+-- 
+-- Este script é PROIBIDA a redistribuição sem créditos,
+-- venda, modificação ou republicação sem autorização expressa.
+-- Qualquer violação será rastreada e denunciada.
+-- ================================================
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
